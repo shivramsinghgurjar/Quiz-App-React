@@ -9,14 +9,14 @@ A simple yet elegant Quiz App built using **React.js**. It presents multiple-cho
 
 ## 📸 Screenshots
 
-### Home / Start of Quiz
+### Home / Start of Quiz:-
 ![landing page](https://github.com/user-attachments/assets/8ce8c90e-95ba-4d9a-baf0-a0f64601003c)
 
 
-### After Selecting Correct Answer
+### After Selecting Correct Answer:-
 ![correct answer](https://github.com/user-attachments/assets/dae3bb73-0a69-4c73-b669-99aa39a020a9)
 
-### After Selecting Wrong Answer
+### After Selecting Wrong Answer:-
 ![wrong answer](https://github.com/user-attachments/assets/6d55a3a4-aea2-4759-aaa6-d21c86bddee3)
 
 ### Score + Restart
