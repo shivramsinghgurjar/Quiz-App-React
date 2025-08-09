@@ -148,4 +148,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-Enjoy the app? Give it a ⭐ on GitHub and share your feedback!
+Enjoy the app? Give it a ⭐ on GitHub and share your feedback!!
